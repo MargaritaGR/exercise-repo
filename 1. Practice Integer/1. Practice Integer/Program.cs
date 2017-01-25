@@ -16,13 +16,13 @@ namespace _1.Practice_Integer
             uint num5 = 2147483648;
             int num6 = -1141583228;
             long num7 = -1223372036854775808;
-            Console.WriteLine(num1);
-            Console.WriteLine(num2);
-            Console.WriteLine(num3);
-            Console.WriteLine(num4);
-            Console.WriteLine(num5);
-            Console.WriteLine(num6);
-            Console.WriteLine(num7);
+            Console.WriteLine("num1=" + num1);
+            Console.WriteLine("num2=" + num2);
+            Console.WriteLine("num3=" + num3);
+            Console.WriteLine("num4=" + num4);
+            Console.WriteLine("num5=" + num5);
+            Console.WriteLine("num6=" + num6);
+            Console.WriteLine("num7=" + num7);
 
         }
     }
